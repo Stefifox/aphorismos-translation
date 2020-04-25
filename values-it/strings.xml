@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_short">Assistente Google</string>
+    <string name="share_message">Condividi con:</string>
+    <string name="share_impossible">La condivisione non è disponibile con la frase di default</string>
+    <string name="share_info">Condividi</string>
+    <string name="settings_info">Impostazioni</string>
+    <string name="menu_info">Menù Laterale</string>
+    <string name="welcome_message">Benvenuto in aphorismos</string>
+    <string name="terms">Usando questa app l\'utente accetta i nostri Termini e Condizioni</string>
+    <string name="terms_button">Termini e Condizioni</string>
+    <string name="generalset">Impostazioni Generali</string>
+    <string name="darkswitch">Modalità Scura</string>
+    <string name="ver">Versione</string>
+    <string name="like_error">La funzione \"Mi piace\" non è disponibile con questa frase</string>
+    <string name="webText">Sito Web</string>
+    <string name="spText">Modalità Sperimentale</string>
+    <string name="resetliketext">Cancella i Like</string>
+    <string name="supTxt">Supporto</string>
+    <string name="drem">Non rimuovere i dati inseriti automaticamente</string>
+    <string name="sendmail">Manda Mail con</string>
+    <string name="request">Scrivi qui il tuo problema</string>
+    <string name="apps">Altre App</string>
+    <string name="stable">Questa è una release stabile</string>
+    <string name="like">I tuoi like</string>
+    <string name="nothing">Non hai nessun like</string>
+    <string name="resText">Like cancellati correttamente</string>
+</resources>

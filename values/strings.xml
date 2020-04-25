@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name" translatable="false">aphorismos</string>
+    <string name="action_short">Google Assistant</string>
+    <string name="share_message">Share with:</string>
+    <string name="share_impossible">Share is not avaiable with default phrase</string>
+    <string name="share_info">Share</string>
+    <string name="settings_info">Settings</string>
+    <string name="menu_info">Lateral Menu</string>
+    <string name="welcome_message">Welcome in aphorismos</string>
+    <string name="terms">Using this app the user accept our Terms and Conditions</string>
+    <string name="terms_button">Terms and Conditions</string>
+    <string name="generalset">General Settings</string>
+    <string name="darkswitch">Dark Mode</string>
+    <string name="social" translatable="false">Social</string>
+    <string name="ver">Version</string>
+    <string name="like_error">Like function is not avaiable with default phrase</string>
+    <string name="instText" translatable="false">Instagram</string>
+    <string name="twtText" translatable="false">Twitter</string>
+    <string name="webText">WebSite</string>
+    <string name="spText">Sperimental Mode</string>
+    <string name="resetliketext">Reset likes</string>
+    <string name="made" translatable="false">Made with ♥ by StefifoxApps</string>
+    <string name="supTxt">Support</string>
+    <string name="drem">Please do not remove automatical data</string>
+    <string name="sendmail">Send Mail with</string>
+    <string name="request">Write here your issue</string>
+    <string name="apps">More Apps</string>
+    <string name="change" translatable="false">Changelog</string>
+    <string name="stable">This is a stable release</string>
+    <string name="like">Your Likes</string>
+    <string name="nothing">You don\'t have any likes</string>
+    <string name="resText">Like deleted successfully</string>
+</resources>
