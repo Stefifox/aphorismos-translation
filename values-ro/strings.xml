@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_short">Asistent Google</string>
+    <string name="share_message">împărtășește cu:</string>
+    <string name="share_impossible">Partajarea nu este disponibilă cu expresia implicită</string>
+    <string name="share_info">împărtășește</string>
+    <string name="settings_info">Optiuni</string>
+    <string name="menu_info">Meniu lateral</string>
+    <string name="welcome_message">Bine ați venit în aphorismos</string>
+    <string name="terms">Utilizând această aplicație, utilizatorul acceptă Termenii și condițiile noastre</string>
+    <string name="terms_button">Termeni și condiții</string>
+    <string name="generalset">Setări generale</string>
+    <string name="darkswitch">Dark Mode</string>
+    <string name="ver">Versiune</string>
+    <string name="like_error">Funcția Like nu este disponibilă cu expresia implicită</string>
+    <string name="webText">WebSite</string>
+    <string name="spText">Modul experimental</string>
+    <string name="resetliketext">Reset like-uri</string>
+    <string name="supTxt">Suport</string>
+    <string name="drem">Vă rugăm să nu eliminați datele automate</string>
+    <string name="sendmail">Trimite un email la</string>
+    <string name="request">Scrie aici problema ta</string>
+    <string name="apps">Mai multe Apps</string>
+    <string name="stable">Aceasta este o versiune stabilă</string>
+    <string name="like">Like-urile tale</string>
+    <string name="nothing">Nu ai like-uri</string>
+    <string name="resText">Like-uri șterse cu succes</string>
+</resources>

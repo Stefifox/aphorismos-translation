@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_short">Google-Assistent</string>
+    <string name="share_message">Share mit:</string>
+    <string name="share_impossible">Share ist mit der Standardphrase nicht verfügbar</string>
+    <string name="share_info">Share</string>
+    <string name="settings_info">Settings</string>
+    <string name="menu_info">Lateral Menu</string>
+    <string name="welcome_message">Willkommen in Aphorismos</string>
+    <string name="terms">Mit dieser App akzeptiert der Benutzer unsere Allgemeinen Geschäftsbedingungen</string>
+    <string name="terms_button">Geschäftsbedingungen</string>
+    <string name="generalset">Allgemeine Einstellungen</string>
+    <string name="darkswitch">Dark Mode</string>
+    <string name="ver">Version</string>
+    <string name="like_error">Like-Funktion ist mit Standardphrase nicht verfügbar</string>
+    <string name="webText">WebSite</string>
+    <string name="spText">Sperimentaler Modus</string>
+    <string name="resetliketext">Likes zurücksetzen</string>
+    <string name="supTxt">Support</string>
+    <string name="drem">Bitte entfernen Sie keine automatischen Daten</string>
+    <string name="sendmail">Mail senden mit</string>
+    <string name="request">Schreiben Sie hier Ihr Problem</string>
+    <string name="apps">Mehr Apps</string>
+    <string name="stable">Dies ist eine stabile Version</string>
+    <string name="like">Deine Vorzüge</string>
+    <string name="nothing">Du hast keine Vorlieben</string>
+    <string name="resText">Wie erfolgreich gelöscht</string>
+</resources>
